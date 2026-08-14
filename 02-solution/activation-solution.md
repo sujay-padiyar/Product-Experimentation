@@ -14,6 +14,7 @@ Prototype artifact:
 
 - Screenshots: `02-solution/screenshots/`
 - Lovable link: https://aha-flow-fast.lovable.app
+- Onboarding prompt template: [Module2 Onboarding Prompt Template](module2-onboarding-prompt-template.md)
 
 The prototype uses a four-screen path from sign-up to Aha:
 
