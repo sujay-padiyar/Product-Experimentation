@@ -1,0 +1,58 @@
+<svg width="920" height="640" viewBox="0 0 920 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="920" height="640" fill="#F7F7F4"/>
+  <rect x="54" y="42" width="812" height="556" rx="18" fill="#FFFFFF" stroke="#D6DEE3"/>
+
+  <rect x="84" y="72" width="34" height="34" rx="9" fill="#00665B"/>
+  <text x="95" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">F</text>
+  <text x="130" y="95" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#152026">FinWise</text>
+  <text x="680" y="94" font-family="Arial, sans-serif" font-size="14" fill="#60717C">Week of Sep 1</text>
+  <rect x="772" y="73" width="64" height="28" rx="14" fill="#DEF7EA"/>
+  <text x="789" y="92" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#12824E">Ready</text>
+
+  <text x="84" y="150" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111A20">Weekly Forecast Readiness</text>
+  <text x="84" y="180" font-family="Arial, sans-serif" font-size="16" fill="#60717C">Complete the review before Friday payroll.</text>
+
+  <rect x="84" y="218" width="752" height="128" rx="16" fill="#F9FBFB" stroke="#D6DEE3"/>
+  <text x="112" y="258" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8" fill="#60717C">FORECAST READY</text>
+  <text x="112" y="304" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#00665B">80%</text>
+  <text x="235" y="284" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111A20">4 of 5 review steps complete</text>
+  <text x="235" y="313" font-family="Arial, sans-serif" font-size="15" fill="#60717C">One action left before this forecast is ready for payroll.</text>
+
+  <rect x="480" y="262" width="304" height="16" rx="8" fill="#E5ECEF"/>
+  <rect x="480" y="262" width="243" height="16" rx="8" fill="#00665B"/>
+
+  <rect x="84" y="374" width="448" height="176" rx="16" fill="#FFFFFF" stroke="#D6DEE3"/>
+  <text x="112" y="412" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8" fill="#60717C">REVIEW STEPS</text>
+
+  <circle cx="121" cy="444" r="11" fill="#DEF7EA" stroke="#0A8F5A"/>
+  <text x="116" y="449" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#0A8F5A">1</text>
+  <text x="146" y="450" font-family="Arial, sans-serif" font-size="16" fill="#111A20">Data updated from QuickBooks</text>
+
+  <circle cx="121" cy="478" r="11" fill="#DEF7EA" stroke="#0A8F5A"/>
+  <text x="116" y="483" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#0A8F5A">2</text>
+  <text x="146" y="484" font-family="Arial, sans-serif" font-size="16" fill="#111A20">Forecast reviewed</text>
+
+  <circle cx="121" cy="512" r="11" fill="#DEF7EA" stroke="#0A8F5A"/>
+  <text x="116" y="517" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#0A8F5A">3</text>
+  <text x="146" y="518" font-family="Arial, sans-serif" font-size="16" fill="#111A20">Downside scenario tested</text>
+
+  <circle cx="344" cy="444" r="11" fill="#DEF7EA" stroke="#0A8F5A"/>
+  <text x="339" y="449" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#0A8F5A">4</text>
+  <text x="369" y="450" font-family="Arial, sans-serif" font-size="16" fill="#111A20">Shared with Maya</text>
+
+  <circle cx="344" cy="478" r="11" fill="#FFFFFF" stroke="#C6D1D7" stroke-width="2"/>
+  <text x="339" y="483" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#60717C">5</text>
+  <text x="369" y="484" font-family="Arial, sans-serif" font-size="16" fill="#111A20">Confirm overdue invoice plan</text>
+
+  <rect x="560" y="374" width="276" height="176" rx="16" fill="#F0FBF7" stroke="#B7E4D0"/>
+  <text x="588" y="412" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8" fill="#12824E">THIS WEEK'S FORECAST</text>
+  <text x="588" y="450" font-family="Arial, sans-serif" font-size="15" fill="#60717C">Cash balance</text>
+  <text x="728" y="450" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="end" fill="#111A20">$24,800</text>
+  <text x="588" y="482" font-family="Arial, sans-serif" font-size="15" fill="#60717C">Payroll due</text>
+  <text x="728" y="482" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="end" fill="#111A20">$18,500</text>
+  <text x="588" y="514" font-family="Arial, sans-serif" font-size="15" fill="#60717C">Overdue invoices</text>
+  <text x="728" y="514" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="end" fill="#111A20">$12,300</text>
+
+  <rect x="588" y="552" width="220" height="38" rx="10" fill="#00665B"/>
+  <text x="698" y="576" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">Confirm invoice plan</text>
+</svg>
