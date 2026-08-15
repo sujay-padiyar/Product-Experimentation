@@ -1,0 +1,130 @@
+<svg width="1100" height="910" viewBox="0 0 1100 910" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="#F7F7F4"/>
+<text x="50" y="48" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#111A20">FinWise 13-Month Signal Dashboard</text>
+<text x="50" y="76" font-family="Arial, sans-serif" font-size="14" fill="#60717C">Trend lines sorted from Oct 2023 to Oct 2024. Trial-to-paid is derived as Paid / Trials.</text>
+<rect x="72" y="115" width="960" height="125" rx="10" fill="#FFFFFF" stroke="#D6DEE3"/>
+<text x="94" y="144" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111A20">Trial-to-Paid Conversion Rate</text>
+<text x="1010" y="144" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#60717C">Ceiling: 1.87%-2.08%</text>
+<line x1="136" y1="153" x2="976" y2="153" stroke="#E5ECEF"/>
+<line x1="136" y1="220" x2="976" y2="220" stroke="#E5ECEF"/>
+<text x="90" y="158" font-family="Arial, sans-serif" font-size="11" fill="#60717C">2.1%</text>
+<text x="90" y="224" font-family="Arial, sans-serif" font-size="11" fill="#60717C">1.8%</text>
+<path d="M136.0,198.2 L206.0,167.0 L276.0,200.9 L346.0,191.8 L416.0,177.6 L486.0,175.8 L556.0,166.4 L626.0,182.3 L696.0,213.5 L766.0,191.2 L836.0,191.5 L906.0,159.5 L976.0,171.3" fill="none" stroke="#00665B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="136.0" cy="198.2" r="4" fill="#00665B"/>
+<text x="143.0" y="190.2" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111A20">1.93%</text>
+<circle cx="206.0" cy="167.0" r="4" fill="#00665B"/>
+<circle cx="276.0" cy="200.9" r="4" fill="#00665B"/>
+<circle cx="346.0" cy="191.8" r="4" fill="#00665B"/>
+<circle cx="416.0" cy="177.6" r="4" fill="#00665B"/>
+<circle cx="486.0" cy="175.8" r="4" fill="#00665B"/>
+<circle cx="556.0" cy="166.4" r="4" fill="#00665B"/>
+<circle cx="626.0" cy="182.3" r="4" fill="#00665B"/>
+<circle cx="696.0" cy="213.5" r="4" fill="#00665B"/>
+<circle cx="766.0" cy="191.2" r="4" fill="#00665B"/>
+<circle cx="836.0" cy="191.5" r="4" fill="#00665B"/>
+<circle cx="906.0" cy="159.5" r="4" fill="#00665B"/>
+<circle cx="976.0" cy="171.3" r="4" fill="#00665B"/>
+<text x="969.0" y="163.3" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#111A20">2.04%</text>
+<text x="136" y="236" font-family="Arial, sans-serif" font-size="10" fill="#60717C">2023-10</text>
+<text x="976" y="236" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#60717C">2024-10</text>
+<rect x="72" y="268" width="960" height="125" rx="10" fill="#FFFFFF" stroke="#D6DEE3"/>
+<text x="94" y="297" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111A20">Financial Modeling Feature Usage</text>
+<text x="1010" y="297" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#60717C">Step-up, then ceiling-ish</text>
+<line x1="136" y1="306" x2="976" y2="306" stroke="#E5ECEF"/>
+<line x1="136" y1="373" x2="976" y2="373" stroke="#E5ECEF"/>
+<text x="90" y="311" font-family="Arial, sans-serif" font-size="11" fill="#60717C">64.0%</text>
+<text x="90" y="377" font-family="Arial, sans-serif" font-size="11" fill="#60717C">5.1%</text>
+<path d="M136.0,343.3 L206.0,366.5 L276.0,358.0 L346.0,350.5 L416.0,351.7 L486.0,332.9 L556.0,312.5 L626.0,334.0 L696.0,336.7 L766.0,324.9 L836.0,319.3 L906.0,312.7 L976.0,337.8" fill="none" stroke="#2364AA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="136.0" cy="343.3" r="4" fill="#2364AA"/>
+<text x="143.0" y="335.3" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111A20">31.2%</text>
+<circle cx="206.0" cy="366.5" r="4" fill="#2364AA"/>
+<circle cx="276.0" cy="358.0" r="4" fill="#2364AA"/>
+<circle cx="346.0" cy="350.5" r="4" fill="#2364AA"/>
+<circle cx="416.0" cy="351.7" r="4" fill="#2364AA"/>
+<circle cx="486.0" cy="332.9" r="4" fill="#2364AA"/>
+<circle cx="556.0" cy="312.5" r="4" fill="#2364AA"/>
+<circle cx="626.0" cy="334.0" r="4" fill="#2364AA"/>
+<circle cx="696.0" cy="336.7" r="4" fill="#2364AA"/>
+<circle cx="766.0" cy="324.9" r="4" fill="#2364AA"/>
+<circle cx="836.0" cy="319.3" r="4" fill="#2364AA"/>
+<circle cx="906.0" cy="312.7" r="4" fill="#2364AA"/>
+<circle cx="976.0" cy="337.8" r="4" fill="#2364AA"/>
+<text x="969.0" y="329.8" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#111A20">36.0%</text>
+<text x="136" y="389" font-family="Arial, sans-serif" font-size="10" fill="#60717C">2023-10</text>
+<text x="976" y="389" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#60717C">2024-10</text>
+<rect x="72" y="421" width="960" height="125" rx="10" fill="#FFFFFF" stroke="#D6DEE3"/>
+<text x="94" y="450" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111A20">Get Started Import Feature Usage</text>
+<text x="1010" y="450" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#60717C">Ceiling around low-mid 40s</text>
+<line x1="136" y1="459" x2="976" y2="459" stroke="#E5ECEF"/>
+<line x1="136" y1="526" x2="976" y2="526" stroke="#E5ECEF"/>
+<text x="90" y="464" font-family="Arial, sans-serif" font-size="11" fill="#60717C">47.2%</text>
+<text x="90" y="530" font-family="Arial, sans-serif" font-size="11" fill="#60717C">28.7%</text>
+<path d="M136.0,484.5 L206.0,498.6 L276.0,475.2 L346.0,519.1 L416.0,513.5 L486.0,519.5 L556.0,490.4 L626.0,483.5 L696.0,485.6 L766.0,465.5 L836.0,480.7 L906.0,466.2 L976.0,469.7" fill="none" stroke="#7A5C00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="136.0" cy="484.5" r="4" fill="#7A5C00"/>
+<text x="143.0" y="476.5" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111A20">40.2%</text>
+<circle cx="206.0" cy="498.6" r="4" fill="#7A5C00"/>
+<circle cx="276.0" cy="475.2" r="4" fill="#7A5C00"/>
+<circle cx="346.0" cy="519.1" r="4" fill="#7A5C00"/>
+<circle cx="416.0" cy="513.5" r="4" fill="#7A5C00"/>
+<circle cx="486.0" cy="519.5" r="4" fill="#7A5C00"/>
+<circle cx="556.0" cy="490.4" r="4" fill="#7A5C00"/>
+<circle cx="626.0" cy="483.5" r="4" fill="#7A5C00"/>
+<circle cx="696.0" cy="485.6" r="4" fill="#7A5C00"/>
+<circle cx="766.0" cy="465.5" r="4" fill="#7A5C00"/>
+<circle cx="836.0" cy="480.7" r="4" fill="#7A5C00"/>
+<circle cx="906.0" cy="466.2" r="4" fill="#7A5C00"/>
+<circle cx="976.0" cy="469.7" r="4" fill="#7A5C00"/>
+<text x="969.0" y="461.7" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#111A20">44.3%</text>
+<text x="136" y="542" font-family="Arial, sans-serif" font-size="10" fill="#60717C">2023-10</text>
+<text x="976" y="542" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#60717C">2024-10</text>
+<rect x="72" y="574" width="960" height="125" rx="10" fill="#FFFFFF" stroke="#D6DEE3"/>
+<text x="94" y="603" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111A20">Average Session Duration</text>
+<text x="1010" y="603" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#60717C">Mid-2024 cliff</text>
+<line x1="136" y1="612" x2="976" y2="612" stroke="#E5ECEF"/>
+<line x1="136" y1="679" x2="976" y2="679" stroke="#E5ECEF"/>
+<text x="90" y="617" font-family="Arial, sans-serif" font-size="11" fill="#60717C">15.4min</text>
+<text x="90" y="683" font-family="Arial, sans-serif" font-size="11" fill="#60717C">4.0min</text>
+<path d="M136.0,667.7 L206.0,646.7 L276.0,623.0 L346.0,619.1 L416.0,634.8 L486.0,618.5 L556.0,637.4 L626.0,626.5 L696.0,631.2 L766.0,661.6 L836.0,672.5 L906.0,656.0 L976.0,649.9" fill="none" stroke="#C43B3B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="136.0" cy="667.7" r="4" fill="#C43B3B"/>
+<text x="143.0" y="659.7" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111A20">6.0min</text>
+<circle cx="206.0" cy="646.7" r="4" fill="#C43B3B"/>
+<circle cx="276.0" cy="623.0" r="4" fill="#C43B3B"/>
+<circle cx="346.0" cy="619.1" r="4" fill="#C43B3B"/>
+<circle cx="416.0" cy="634.8" r="4" fill="#C43B3B"/>
+<circle cx="486.0" cy="618.5" r="4" fill="#C43B3B"/>
+<circle cx="556.0" cy="637.4" r="4" fill="#C43B3B"/>
+<circle cx="626.0" cy="626.5" r="4" fill="#C43B3B"/>
+<circle cx="696.0" cy="631.2" r="4" fill="#C43B3B"/>
+<circle cx="766.0" cy="661.6" r="4" fill="#C43B3B"/>
+<circle cx="836.0" cy="672.5" r="4" fill="#C43B3B"/>
+<circle cx="906.0" cy="656.0" r="4" fill="#C43B3B"/>
+<circle cx="976.0" cy="649.9" r="4" fill="#C43B3B"/>
+<text x="969.0" y="641.9" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#111A20">8.9min</text>
+<text x="136" y="695" font-family="Arial, sans-serif" font-size="10" fill="#60717C">2023-10</text>
+<text x="976" y="695" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#60717C">2024-10</text>
+<rect x="72" y="727" width="960" height="125" rx="10" fill="#FFFFFF" stroke="#D6DEE3"/>
+<text x="94" y="756" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111A20">Average Sessions Per User</text>
+<text x="1010" y="756" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#60717C">Recovery to 8-9 ceiling</text>
+<line x1="136" y1="765" x2="976" y2="765" stroke="#E5ECEF"/>
+<line x1="136" y1="832" x2="976" y2="832" stroke="#E5ECEF"/>
+<text x="90" y="770" font-family="Arial, sans-serif" font-size="11" fill="#60717C">9.7</text>
+<text x="90" y="836" font-family="Arial, sans-serif" font-size="11" fill="#60717C">2.3</text>
+<path d="M136.0,771.5 L206.0,789.5 L276.0,807.5 L346.0,825.5 L416.0,807.5 L486.0,807.5 L556.0,780.5 L626.0,798.5 L696.0,807.5 L766.0,789.5 L836.0,780.5 L906.0,771.5 L976.0,771.5" fill="none" stroke="#5B4B8A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="136.0" cy="771.5" r="4" fill="#5B4B8A"/>
+<text x="143.0" y="763.5" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111A20">9.0</text>
+<circle cx="206.0" cy="789.5" r="4" fill="#5B4B8A"/>
+<circle cx="276.0" cy="807.5" r="4" fill="#5B4B8A"/>
+<circle cx="346.0" cy="825.5" r="4" fill="#5B4B8A"/>
+<circle cx="416.0" cy="807.5" r="4" fill="#5B4B8A"/>
+<circle cx="486.0" cy="807.5" r="4" fill="#5B4B8A"/>
+<circle cx="556.0" cy="780.5" r="4" fill="#5B4B8A"/>
+<circle cx="626.0" cy="798.5" r="4" fill="#5B4B8A"/>
+<circle cx="696.0" cy="807.5" r="4" fill="#5B4B8A"/>
+<circle cx="766.0" cy="789.5" r="4" fill="#5B4B8A"/>
+<circle cx="836.0" cy="780.5" r="4" fill="#5B4B8A"/>
+<circle cx="906.0" cy="771.5" r="4" fill="#5B4B8A"/>
+<circle cx="976.0" cy="771.5" r="4" fill="#5B4B8A"/>
+<text x="969.0" y="763.5" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#111A20">9.0</text>
+<text x="136" y="848" font-family="Arial, sans-serif" font-size="10" fill="#60717C">2023-10</text>
+<text x="976" y="848" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#60717C">2024-10</text>
+</svg>
